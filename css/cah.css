@@ -51,3 +51,16 @@
 .cah-card-text:focus {
     outline: none;
 }
+@media (max-width:600px) {
+    .cah-card {
+        font-size: 20px;
+        font-weight: bold;
+        font-family: Helvetica;
+        width: 80%;
+        padding-top: 80%;
+        display: inline-block;
+        position: relative;
+        margin-bottom: 2%;
+    }
+    
+}
